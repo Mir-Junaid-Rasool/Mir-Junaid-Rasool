@@ -5,11 +5,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=🎓+Assistant+Professor+%40+Jain+University+Bangalore;🤖+Machine+Learning+%7C+Deep+Learning+%7C+AI;🌐+Full+Stack+Developer+%7C+Next.js+%7C+React;📊+Data+Science+%7C+Tableau+%7C+Python+%7C+R;🔬+Published+Researcher+%7C+SCOPUS+%7C+IEEE;✅+EPAM+Certified+Front+End+Trainer)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=mirjunaid26&label=Profile+Views&color=7c3aed&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Mir-Junaid-Rasool&label=Profile+Views&color=7c3aed&style=for-the-badge"/>
   <a href="mailto:mirjunaidmir@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mirjunaid26/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mirjunaidrasool/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://mirjunaid.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://github.com/mirjunaid26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Mir-Junaid-Rasool"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 </div>
@@ -204,12 +204,12 @@ class MirJunaidRasool:
 ## ⚙️ GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mirjunaid26&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mirjunaid26&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mir-Junaid-Rasool&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mir-Junaid-Rasool&layout=compact&langs_count=8&theme=midnight-purple"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mirjunaid26&theme=midnight-purple&hide_border=false" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mir-Junaid-Rasool&theme=midnight-purple&hide_border=false" height="180em"/>
 </div>
 
 ---
@@ -232,10 +232,10 @@ class MirJunaidRasool:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirjunaid26/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirjunaidrasool/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mirjunaid.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirjunaidmir@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mirjunaid26)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mir-junaid-Rasool)
 
 </div>
 
