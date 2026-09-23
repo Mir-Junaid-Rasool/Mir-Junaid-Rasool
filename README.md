@@ -23,7 +23,7 @@ class MirJunaidRasool:
     def __init__(self):
         self.name        = "Mir Junaid Rasool"
         self.roles       = ["Assistant Professor (CSE)", "Developer", "Researcher", "Trainer"]
-        self.current     = "Jain University, Bangalore  |  Ph.D Pursuing (2024–)"
+        self.current     = "PES University, Bangalore  |  Ph.D Pursuing (2024–)"
         self.education   = "M.Tech CSE (GNDEC)  |  B.Tech CSE (PTU)"
         self.location    = "Anantnag, India"
         self.certified   = "EPAM Certified Front End Trainer"
