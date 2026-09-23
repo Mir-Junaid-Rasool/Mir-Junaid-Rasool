@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mir%20Junaid%20Rasool&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Professor%20%E2%80%A2%20Developer%20%E2%80%A2%20Researcher%20%E2%80%A2%20Trainer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=🎓+Assistant+Professor+%40+Jain+University+Bangalore;🤖+Machine+Learning+%7C+Deep+Learning+%7C+AI;🌐+Full+Stack+Developer+%7C+Next.js+%7C+React;📊+Data+Science+%7C+Tableau+%7C+Python+%7C+R;🔬+Published+Researcher+%7C+SCOPUS+%7C+IEEE;✅+EPAM+Certified+Front+End+Trainer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=🎓+Assistant+Professor+%40+PES+University+Bangalore;🤖+Machine+Learning+%7C+Deep+Learning+%7C+AI;🌐+Full+Stack+Developer+%7C+Next.js+%7C+React;📊+Data+Science+%7C+Tableau+%7C+Python+%7C+R;🔬+Published+Researcher+%7C+SCOPUS+%7C+IEEE;✅+EPAM+Certified+Front+End+Trainer)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Mir-Junaid-Rasool&label=Profile+Views&color=7c3aed&style=for-the-badge"/>
